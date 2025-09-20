@@ -210,7 +210,7 @@
     "speedline-core": "^1.4.3",
     "third-party-web": "^0.17.1",
     "ws": "^7.0.0",
-    "yargs": "^17.3.1",
+    "yargs": "^17.7.2",
     "yargs-parser": "^21.0.0"
   },
   "resolutions": {
