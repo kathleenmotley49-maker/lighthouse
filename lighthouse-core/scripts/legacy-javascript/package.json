@@ -3,7 +3,7 @@
   "type": "module",
   "dependencies": {
     "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.28.3",
     "@babel/preset-env": "^7.16.4",
     "browserify": "^16.5.0",
     "glob": "^7.1.6",
